@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <h1 className="text-3xl font-bold bg-orange-400 p-4">My New Project</h1>
+      <h1>Git And GitHub</h1>
     </>
   );
 }
